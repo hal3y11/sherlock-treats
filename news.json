@@ -1,0 +1,19 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "New Seasonal Cakes Launch",
+      "summary": "Our Autumn range of pumpkin spice and maple walnut cakes is now available!"
+    },
+    {
+      "id": 2,
+      "title": "Workshop: Cake Decorating 101",
+      "summary": "Join our beginner workshop and learn how to pipe, frost, and decorate like a pro."
+    },
+    {
+      "id": 3,
+      "title": "We Now Cater for Offices!",
+      "summary": "Business lunch? Meeting event? We deliver fresh cakes and mini bites to your door."
+    }
+  ]
+}
